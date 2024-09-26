@@ -26,8 +26,15 @@
         //   % (Modulus — remainder of division)     var x = 10 % 5;
 
  
-// 8. How To Use  math.abs () ?
+// 8. How To Use  math.abs  ?
 // 8. Ans: 
 //         var Num = -50;
 //         var sum = Math.abs(Num1);
 //         console.log(sum)
+
+
+// 9. how to use Math.ceil ?
+//    Ans: exm : var Num = 1.999999;
+//               var Num1 = 9;
+//               var sum = Num + math.ceil(Num1)
+//               console.log(sum)

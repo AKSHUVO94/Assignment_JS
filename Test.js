@@ -91,5 +91,11 @@
 
 // ------Math.random----- Default value less then 1 and gater then 0//   
 
-var sum = Math.random()*100;
-console.log(sum)
+// var sum = Math.random()*100;
+// console.log(sum)
+
+
+            //   var Num = 1.999999;
+            //   var Num1 = 9;
+            //   var sum = Num + Math.ceil(Num1)
+            //   console.log(sum)
